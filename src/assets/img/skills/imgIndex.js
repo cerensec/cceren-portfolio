@@ -1,0 +1,12 @@
+export const Angular = require('./angular.png');
+export const Cpp = require('./cpp.png');
+export const Css = require('./css.png');
+export const Html = require('./html.png');
+export const Java = require('./java.png');
+export const Js = require('./javascript.png');
+export const Mysql = require('./mysql.png');
+export const Nodejs = require('./nodejs.png');
+export const Php = require('./php.png');
+export const Python = require('./python.png');
+export const React = require('./react.png');
+export const Spring = require('./spring.png');
